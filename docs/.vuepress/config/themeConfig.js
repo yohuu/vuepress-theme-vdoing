@@ -46,13 +46,13 @@ module.exports = {
 
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-    name: 'xugaoyi', // 必需
-    link: 'https://github.com/xugaoyi', // 可选的
+    name: 'yohuu', // 必需
+    link: 'https://github.com/yohuu', // 可选的
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
     avatar: 'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg',
-    name: 'Evan Xu',
+    name: 'yohuu',
     slogan: '前端界的小学生',
   },
   social: {

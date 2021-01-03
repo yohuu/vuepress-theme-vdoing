@@ -85,9 +85,9 @@ module.exports = [
       options: {
         clientID: '0e38791cd26862ed10cb',
         clientSecret: 'c69796696a716ed53b311755509c9fe8d5c4b2d1',
-        repo: 'blog-gitalk-comment', // GitHub 仓库
-        owner: 'xugaoyi', // GitHub仓库所有者
-        admin: ['xugaoyi'], // 对仓库有写权限的人
+        repo: 'vuepress-theme-vdoing', // GitHub 仓库
+        owner: 'yohuu', // GitHub仓库所有者
+        admin: ['yohuu'], // 对仓库有写权限的人
         // distractionFreeMode: true,
         pagerDirection: 'last', // 'first'正序 | 'last'倒序
         id: '<%- (frontmatter.permalink || frontmatter.to.path).slice(-16) %>', //  页面的唯一标识,长度不能超过50
