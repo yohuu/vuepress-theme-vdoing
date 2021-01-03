@@ -16,4 +16,5 @@ module.exports = {
   head,
   plugins,
   themeConfig,
+  base: "/vuepress-theme-vdoing/"
 }
